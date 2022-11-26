@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Solidity and React.
 - 💞️ I’m looking to collaborate on Web3 projects.
 - 📫 Reaching me is simple 
-- LinkdIn - https://www.linkedin.com/in/mkbhiva
+- LinkdIn - https://www.linkedin.com/in/manojbhiva/
 
 
